@@ -1,0 +1,10 @@
+=CONCATENATE("Stream population for ", A2, " ", A3, " is ", A4, "/mile.")
+=CONCATENATE(B2, " ", C2)
+
+RIGHT(text,[num_chars])
+=RIGHT(B3,5)
+=RIGHT(A3)
+
+LEFT(text,[num_chars])
+=LEFT(B3,5)
+=LEFT(A3)

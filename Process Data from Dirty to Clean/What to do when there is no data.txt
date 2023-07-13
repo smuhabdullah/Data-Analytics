@@ -1,0 +1,22 @@
+CSV: Check out this Credit card customers dataset(https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers), 
+which has information from 10,000 customers including age, salary, marital status, credit card limit, credit card 
+category, etc. (CC0: Public Domain, Sakshi Goyal). 
+
+JSON: Check out this JSON dataset for trending YouTube videos (CC0: Public Domain, Mitchell J).
+(https://www.kaggle.com/datasets/datasnaek/youtube-new)
+
+SQLite: Check out this SQLite dataset for 24 years worth of U.S. wildfire data (CC0: Public Domain, Rachael Tatman).
+(https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires)
+
+BigQuery: Check out this Google Analytics 360 sample dataset (https://www.kaggle.com/datasets/bigquery/google-analytics-sample) 
+from the Google Merchandise Store (CC0 Public Domain, Google BigQuery).
+
+Refer to the Kaggle documentation for datasets for more information and search for and explore datasets on 
+your own at kaggle.com/datasets.
+
+As with all other kinds of datasets, be on the lookout for duplicate data and ‘Null’ in open datasets. 
+Null most often means that a data field was unassigned (left empty), but sometimes Null can be interpreted as 
+the value, 0. It is important to understand how Null was used before you start analyzing a dataset with Null data.
+
+https://www.kaggle.com/docs/datasets 
+https://www.kaggle.com/datasets

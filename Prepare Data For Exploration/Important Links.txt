@@ -1,0 +1,41 @@
+
+(Boolean Logics)
+https://libguides.mit.edu/c.php?g=175963&p=1158594 
+https://www.maa.org/press/periodicals/convergence/origins-of-boolean-algebra-in-the-logic-of-classes-george-boole-john-venn-and-c-s-peirce
+
+Data Modeling (ERD and UML) 
+https://dataedo.com/blog/basic-data-modeling-techniques  
+https://www.1keydata.com/datawarehousing/data-modeling-levels.html
+
+Quick Draw
+https://quickdraw.withgoogle.com/
+
+https://www.datascienceassn.org/
+https://www.meetup.com/topics/data-analytics/
+https://www.youtube.com/playlist?list=PLqFaTIg4myu8gbDh6oBl7XRYNBlthpDEW
+
+Open Data 
+https://data.gov/
+https://www.census.gov/data.html
+https://www.opendatanetwork.com/
+https://datasetsearch.research.google.com/
+https://cloud.google.com/datasets
+
+https://datasetsearch.research.google.com/search?src=2&query=Sugarcane%20Disease%20Dataset&docid=L2cvMTFyanZsMXQ2bQ%3D%3D
+
+https://datasetsearch.research.google.com/
+https://cloud.google.com/bigquery/public-data
+
+healthcare
+https://www.who.int/data/collections
+https://cloud.google.com/healthcare-api/docs/resources/public-datasets/idc
+https://cloud.google.com/life-sciences/docs/resources/public-datasets/1000-genomes
+
+climate data
+https://www.ncei.noaa.gov/products
+https://www.climate.gov/maps-data/all?listingMain=datasetgallery
+
+Public social-political datasets
+https://www.bls.gov/cps/tables.htm
+https://openpolicing.stanford.edu/
+https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/

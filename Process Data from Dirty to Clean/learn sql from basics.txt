@@ -1,0 +1,5 @@
+https://learnsql.com/blog/what-sql-dialect-to-learn/
+https://www.softwaretestinghelp.com/sql-vs-mysql-vs-sql-server/
+https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start
+https://www.sqltutorial.org/what-is-sql/
+https://sqlite.org/windowfunctions.html

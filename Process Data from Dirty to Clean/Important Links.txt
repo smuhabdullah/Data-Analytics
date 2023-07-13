@@ -1,0 +1,22 @@
+In order to use a sample size calculator, you need to have the population size, confidence level, 
+and the acceptable margin of error already decided so you can input them into the tool. 
+If this information is ready to go, check out these sample size calculators below:
+https://www.surveymonkey.com/mp/sample-size-calculator/
+http://www.raosoft.com/samplesize.html
+
+
+
+https://www.investopedia.com/terms/c/central_limit_theorem.asp
+https://machinelearningmastery.com/wp-content/uploads/2021/03/ml_performance_improvement_cheatsheet.pdf?__s=1y57dar8trrvtsrx6pl2&utm_source=drip&utm_medium=email&utm_campaign=Machine+Learning+Mastery+Crash+Course&utm_content=Machine+learning+crash+course
+https://www.statisticssolutions.com/dissertation-resources/sample-size-calculation-and-sample-size-justification/sample-size-formula/
+https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/
+
+
+https://goodcalculators.com/margin-of-error-calculator/
+https://www.checkmarket.com/sample-size-calculator/#sample-size-margin-of-error-calculator
+
+
+https://technologyadvice.com/blog/information-technology/top-10-workflow-automation-software/
+https://news.mit.edu/2016/automating-big-data-analysis-1021
+https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e
+

@@ -1,0 +1,45 @@
+LENGTH(string)
+SELECT LENGTH('Hello World');
+
+SUBSTR(string, start_position, length)
+SELECT SUBSTR('Hello World', 7, 5);
+
+TRIM([LEADING | TRAILING | BOTH] [trim_character] FROM string)
+SELECT TRIM('   Hello World   ');
+
+
+SELECT
+  MIN(length) AS min_length,
+  MAX(length) AS max_length
+FROM
+  automobile.automobile;
+
+TYPECASTING
+CAST(expres sion AS datatype(length))
+SELECT CAST('2017-08-25' AS datetime);
+SELECT CAST(product_price AS FLOAT64)
+FROM `digital-emart.customer_data.customer_purchase` 
+ORDER BY CAST(product_price AS FLOAT64) DESC
+SELECT 
+  CAST(date AS date) as date_only, product_price
+FROM
+  `customer_data.customer_purchase`
+WHERE
+  date between '2020-12-01' and '2020-12-31'
+
+CONCAT
+SELECT CONCAT('W3Schools', '.com');
+
+COALESCE
+COALESCE(val1, val2, ...., val_n)
+SELECT COALESCE(NULL, 1, 2, 'W3Schools.com');
+
+
+SELECT
+  customer_id,name,
+  CASE
+    WHEN name = 'Magnolia Craig' THEN 'Mangolia Craig'
+    ELSE name 
+    END as cleaned_name
+FROM
+  `customer_data.Customer`
